@@ -28,6 +28,7 @@ function App(){
         <footer className="bg-gradient-to-r from-blue-800 to-blue-500 text-white p-4">
           <p>JHOE YOSHIO KOCHI HASHIMOTO 553831</p>
           <p>https://github.com/JhoeHashimoto</p>
+          <p>https://github.com/JhoeHashimoto/cpreactoficial.git</p>
         </footer>
       </div>
       </BrowserRouter>
